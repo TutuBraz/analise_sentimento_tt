@@ -1,0 +1,65 @@
+Análise de sentimentos: colete dados de redes sociais e sites de avaliação para entender o sentimento dos consumidores em relação aos produtos do O Boticário durante o Dia dos Namorados. Você pode usar técnicas de processamento de linguagem natural para classificar as postagens e comentários em positivos, neutros ou negativos e identificar os principais temas mencionados pelos clientes.
+
+Porquê? (Why?): Porque é importante essa análise para o negócio?
+O dia dos namorados é uma das épocas do ano em que é comum presentar as pessoas queridas, nesse sentido para empresas que investem pesado em marketing como o Grupo Boticario, é vital saber como está o posicionamento do público/consumidores em relação aos seus produtos
+
+Quem? (Who?): Quem iremos analisar? Nossos compradores? Fornecedores?
+Iremos analalisar os consumidores de produtos boticario que utilizam o Twitter.
+
+O quê? (What?): O que iremos analisar? Comportamento de compra?
+Será analisado o sentimento desses usuários.
+
+Onde? (Where?): A análise estará voltada para o contexto nacional ou internacional?
+A análise será voltada para o contexto nacional.
+
+Quando? (When?): Qual período será considerado para as análises?
+O período analisado será do dia 15/05 até 19/06.
+
+Texto:
+
+Se tem uma coisa que não falta entre meados de maio e o dia 12 de junho, são as campanhas do dia dos namorados a época mágica de presentear o chuchuzinho com algo bem especial. Então, foi nesse contexto que resolvi presentear os apaixonados pelo mundo dos dados com um projeto ciência de dados. Para a definição do problema de negócios, utilizei a técnica Five whys que aprendi no curso Google Data Analitcs, o que facilitou bastante para fazer o recorte. Então sem mais delongas, senta que lá vem história.
+
+Problema de negócios: A diretoria de marketing do Grupo Boticario está curiosa para saber como está o humor do público em relação aos seus produtos nesse período de campanha do dia dos namorados, e encomendou para a equipe de dados uma análise de sentimento dos consumidores, para que possam tomar decisões mais informadas e aprimorar a experiências dos consumidores no períodos da campanha.
+
+Para solucionar o nosso problema irei utilizar técnicas de processamento de linguagem natural para automatizar a classificação das postagens e comentários em positivos, neutros ou negativos, dos usuários do Twitter, o que permite uma análise mais rápida e eficiente. Além disso, ao identificar os principais temas mencionados pelos clientes, podemos entender melhor suas necessidades e desejos, e assim, aprimorar os produtos e serviços oferecidos.
+
+Com os resultados da análise de sentimentos, a equipe de marketing do Grupo Boticário pode identificar oportunidades para aprimorar a comunicação com os clientes e fortalecer o relacionamento com eles. Além disso, esses insights também podem ser usados para identificar problemas em produtos ou serviços e corrigi-los antes que se tornem maiores.
+
+O período que será analisado  será do dia 22 de maio até o dia 19 de junho, e em cada uma das semanas nesse período será feito um post mostrando meu avanço no projeto. Será um projeto de cinco semanas.
+
+Cronograma:
+15/05 - 21/05
+-Definição do problema e escopo do projeto.
+-Identificação e coleta dos dados.
+-Análise exploratória dos dados
+
+22/05 - 28/05
+-Preparação dos dados.
+-Seleção das técnicas de análise.
+-Desenvolvimento dos primeiros modelos.
+
+29/05 - 04/06
+Ajuste e avaliação dos modelos.
+Análise dos resultados obtidos.
+Criação dos relatórios preliminares.
+
+05/06 - 11/06
+Revisão e refinamento dos modelos.
+Elaboração dos relatórios finais.
+Apresentação dos resultados para as partes interessadas.
+
+12/06 - 19/06
+Revisão e refinamento dos modelos.
+Elaboração dos relatórios finais.
+Apresentação dos resultados para as partes interessadas.
+
+Ferramentas:
+-Python.
+-Tableu(possívelmente).
+
+
+Esse foi o escopo do projeto.
+
+
+
+
