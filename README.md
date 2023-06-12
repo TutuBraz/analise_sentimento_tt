@@ -7,5 +7,6 @@ A diretoria de marketing do Grupo Boticário está curiosa para saber como está
 
 Links das postagens no blog:
 * [Semana 0: Escopo do projeto.](https://medium.com/@arthurbraz_41088/decifrando-sentimentos-um-projeto-de-ci%C3%AAncia-de-dados-para-an%C3%A1lise-de-sentimentos-no-dia-dos-9ed7addab13e)
-* [semana 1: Aquisição de dados e processamento de texto] 
+* [semana 1: Aquisição de dados e processamento de texto](https://medium.com/@arthurbraz_41088/decifrando-sentimentos-um-projeto-de-ci%C3%AAncia-de-dados-para-an%C3%A1lise-de-sentimentos-no-dia-dos-103c927a2dcb)
+
 
